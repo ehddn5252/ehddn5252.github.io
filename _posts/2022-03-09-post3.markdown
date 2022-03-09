@@ -1,13 +1,86 @@
 ---
 layout: post
-title: post-sample
+title: 기술블로그 첫번째 포스트
 date: 2022-03-03 
 category: sample
 ---
-# post-sample
->first post in blog
 
-This is code
-```ruby
-print 'hello world'
+# 기술 블로그 제작
+첫번쨰 테스트용 포스트. 
+네이버 블로그, T Story, velog 
+여러가지 시도를 해보았는데, 지킬이 나중에 도움이 된다고 하여 선택했다.
+
+대선날인데 누가 뽑힐지 궁금하다.
+
+
+이 블로그 만든 경로
+아래 블로그를 참고했다.
+
+https://rito15.github.io/posts/memo-init-jekyll-blog/
+
+
+
+1. ruby 언어를 다운로드 한다.
+2. 다운로드 후 cmd 창에서 다음 명령어를 실행한다.
 ```
+gem install jekyll bundler
+```
+
+좀 오래걸린다..
+
+
+
+```
+
+C:\Users\dw>ruby -v
+ruby 3.1.1p18 (2022-02-18 revision 53f5fc4236) [x64-mingw-ucrt]
+
+C:\Users\dw>gem install jekyll bundler
+Fetching forwardable-extended-2.6.0.gem
+Fetching terminal-table-2.0.0.gem
+Fetching liquid-4.0.3.gem
+Fetching rouge-3.28.0.gem
+Fetching mercenary-0.4.0.gem
+Fetching pathutil-0.16.2.gem
+Fetching unicode-display_width-1.8.0.gem
+Fetching safe_yaml-1.0.5.gem
+Fetching kramdown-2.3.1.gem
+Fetching kramdown-parser-gfm-1.1.0.gem
+Fetching ffi-1.15.5-x64-mingw-ucrt.gem
+Fetching rb-inotify-0.10.1.gem
+Fetching rb-fsevent-0.11.1.gem
+Fetching listen-3.7.1.gem
+Fetching jekyll-watch-2.2.1.gem
+Fetching sassc-2.4.0.gem
+Fetching jekyll-sass-converter-2.2.0.gem
+Fetching concurrent-ruby-1.1.9.gem
+Fetching i18n-1.10.0.gem
+Fetching http_parser.rb-0.8.0.gem
+Fetching eventmachine-1.2.7.gem
+Fetching em-websocket-0.5.3.gem
+Fetching colorator-1.1.0.gem
+Fetching public_suffix-4.0.6.gem
+Fetching jekyll-4.2.2.gem
+Fetching addressable-2.8.0.gem
+Successfully installed unicode-display_width-1.8.0
+Successfully installed terminal-table-2.0.0
+Successfully installed safe_yaml-1.0.5
+Successfully installed rouge-3.28.0
+Successfully installed forwardable-extended-2.6.0
+Successfully installed pathutil-0.16.2
+Successfully installed mercenary-0.4.0
+Successfully installed liquid-4.0.3
+Successfully installed kramdown-2.3.1
+Successfully installed kramdown-parser-gfm-1.1.0
+Successfully installed ffi-1.15.5-x64-mingw-ucrt
+Successfully installed rb-inotify-0.10.1
+Successfully installed rb-fsevent-0.11.1
+Successfully installed listen-3.7.1
+Successfully installed jekyll-watch-2.2.1
+Temporarily enhancing PATH for MSYS/MINGW...
+Building native extensions. This could take a while...
+```
+
+
+3. repository를 준비한다. 이는 내 ehddn5252.github.io 로 레포지토리를 만들고 지킬 테마를 이 안에 옮긴 것이다. 아니면 fork를 써서 이름을 ehddn5252.github.io로 바꾸면 되긴하는데, 나는 전자 방법으로 했다.
+
