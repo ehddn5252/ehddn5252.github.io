@@ -10,11 +10,12 @@ category: sample
 네이버 블로그, T Story, velog 
 여러가지 시도를 해보았는데, 지킬이 나중에 도움이 된다고 하여 선택했다.
 
+테마는 monos를 선택했는데, 이게 깔끔해서 일단 선택했다.
+
 대선날인데 누가 뽑힐지 궁금하다.
 
 
-이 블로그 만든 경로
-아래 블로그를 참고했다.
+이 블로그 만든 경로는 아래 블로그를 참고했다.
 
 https://rito15.github.io/posts/memo-init-jekyll-blog/
 
@@ -25,8 +26,8 @@ https://rito15.github.io/posts/memo-init-jekyll-blog/
 ```
 gem install jekyll bundler
 ```
+지킬 bundler를 설치하는 데, 좀 오래걸린다..
 
-좀 오래걸린다..
 
 
 
