@@ -1,0 +1,13 @@
+---
+layout: post
+title: post-sample
+date: 2022-03-03 
+category: sample
+---
+# post-sample
+>first post in blog
+
+This is code
+```ruby
+print 'hello world'
+```
