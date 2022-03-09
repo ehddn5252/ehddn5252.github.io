@@ -1,0 +1,9 @@
+---
+layout: post
+title: first post
+date: 2022
+category: sample
+---
+
+
+new post
